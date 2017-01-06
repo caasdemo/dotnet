@@ -13,7 +13,7 @@ namespace HelloWorldNUnitTest
             Assert.IsTrue(Program.IsDataContainsKeyword("Hello Unit Tester", "Kell"));
         }
          [Test]
-        public void TestMethod2()
+        public void TestMethodnew()
         {
             Assert.IsTrue(Program.IsDataContainsKeyword("Hello Unit Tester", "Hello"));
         }
