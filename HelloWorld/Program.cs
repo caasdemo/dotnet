@@ -11,7 +11,7 @@ namespace HelloWorld
         {
         }
         public static bool IsDataContainsKeyword(string Data, string keyword) {
-
+            Console.WriteLine("Hello");
             return Data.Contains(keyword);
         }
     }
